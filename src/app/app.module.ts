@@ -8,7 +8,6 @@ import { HeaderComponent } from './layouts/header/header.component';
 import { FooterComponent } from './layouts/footer/footer.component';
 import { HomeComponent } from './pages/home/home.component';
 import { AppRoutingModule } from './app-routing.module';
-import { MatSlideToggleModule } from '@angular/material/slide-toggle';
 
 
 @NgModule({
@@ -22,8 +21,7 @@ import { MatSlideToggleModule } from '@angular/material/slide-toggle';
     BrowserModule,
     GridModule,
     BrowserAnimationsModule,
-    AppRoutingModule,
-    MatSlideToggleModule
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
