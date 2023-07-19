@@ -25,7 +25,6 @@
               "src/assets"
             ],
             "styles": [
-              "src/custom-theme.scss",
               {
                 "input": "node_modules/@progress/kendo-theme-default/dist/all.css"
               },
