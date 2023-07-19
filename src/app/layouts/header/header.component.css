@@ -1,0 +1,22 @@
+header {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(251, 251, 253);
+    position: fixed;
+    top: 0;
+}
+
+.header__container {
+    display: flex;
+    justify-content: center;
+    padding-top: 1.5rem;
+}
+
+.header__logo {
+    font-size: 2rem;
+    text-decoration: none;
+    padding: 0.25rem 1rem;
+    border-radius: 2rem;
+    background-color: aliceblue;
+    color: var(--primary-color);
+}
