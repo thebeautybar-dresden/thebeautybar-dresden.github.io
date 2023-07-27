@@ -1,5 +1,5 @@
 {
-  "name": "the-nail-bar-dresden",
+  "name": "the-beauty-bar-dresden",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -8,7 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "lint": "ng lint",
-    "deploy": "npx angular-cli-ghpages --dir=dist/the-nail-bar-dresden"
+    "deploy": "npx angular-cli-ghpages --dir=dist/the-beauty-bar-dresden"
   },
   "private": true,
   "dependencies": {
